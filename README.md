@@ -6,7 +6,7 @@ A machine learning web app that classifies SMS messages as **Spam** or **Not Spa
 
 ## 🚀 Demo
 
-[Live on Hugging Face Spaces](https://huggingface.co/spaces/Bichu0077/sms-spam-detector) 
+[Live Demo]([https://huggingface.co/spaces/Bichu0077/sms-spam-detector](https://sms-spam-detector-bdozhp2zelakecxjnvqsa3.streamlit.app/)) 
 
 ---
 
