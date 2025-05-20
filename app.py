@@ -15,9 +15,6 @@ nltk.download('punkt', download_dir=nltk_data_path)
 nltk.download('stopwords', download_dir=nltk_data_path)
 
 
-nltk.download('punkt')
-nltk.download('stopwords')
-
 # Initialize stemmer
 ps = PorterStemmer()
 
